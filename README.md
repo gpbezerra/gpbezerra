@@ -2,6 +2,7 @@
 
 - 🎓 Graduando em Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro.
 - 💜 Ex-membro na Signal Jr., empresa júnior de TI da UFRRJ. Atuando como diretor de projetos e assessor.
+- 📝 Bolsista do Programa de Educação Tutorial de Sistemas de Informação - PET-SI. Atuando como desenvolvedor de software
 - 🤓 Entusiasta em desenvolvimento web, gestão de projetos e metodologias ágeis.
 
 ## 💻 Tecnologias
