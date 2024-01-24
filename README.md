@@ -2,7 +2,7 @@
 
 - 🎓 Graduando em Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro.
 - 💜 Ex-membro na Signal Jr., empresa júnior de TI da UFRRJ. Atuando como diretor de projetos e assessor.
-- 🤓 Entusiasta de desenvolvimento web, gestão de projetos e metodologias ágeis.
+- 🤓 Entusiasta em desenvolvimento web, gestão de projetos e metodologias ágeis.
 
 ## 🚀 Minhas Skills
 
